@@ -1,0 +1,27 @@
+{
+  "greeting": "Hi there, I'm",
+  "typewriter": {
+    "prefix": "I build with",
+    "skills": ["React.js", "Next.js", "JavaScript", "TypeScript"],
+    "typingSpeed": 90,
+    "deletingSpeed": 45,
+    "pauseTime": 1600
+  },
+  "tagline": "I turn coffee and Figma files into pixel-perfect, responsive UIs, and I occasionally argue with CSS about centering a div. Still winning.",
+  "photo": {
+    "src": "",
+    "alt": "Photo of Prasad Sankar"
+  },
+  "buttons": [
+    { "label": "View Projects", "href": "#projects", "variant": "primary", "icon": "arrow" },
+    { "label": "Download Resume", "href": "/resume.pdf", "variant": "secondary", "icon": "download", "download": true }
+  ],
+  "particles": {
+    "enabled": true,
+    "density": 9000,
+    "maxParticles": 140,
+    "linkDistance": 130,
+    "mouseRadius": 160,
+    "speed": 0.35
+  }
+}

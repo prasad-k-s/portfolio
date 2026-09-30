@@ -1,0 +1,23 @@
+{
+  "eyebrow": "Projects",
+  "heading": "Things I've built",
+  "subheading": "A few projects I've worked on. Click through to see the code or try them live.",
+  "projects": [
+    {
+      "name": "ShopSphere",
+      "description": "A modern e-commerce storefront with product search, filters, cart and a smooth checkout flow. Fully responsive with server-side rendering for fast page loads.",
+      "image": "/images/projects/project-1.svg",
+      "github": "https://github.com/your-username/shopsphere",
+      "live": "https://example.com",
+      "tech": ["Next.js", "TypeScript", "Tailwind CSS", "Redux"]
+    },
+    {
+      "name": "FinTrack",
+      "description": "A personal finance dashboard to track income, expenses and budgets with interactive charts, dark mode and real-time data fetching.",
+      "image": "/images/projects/project-2.svg",
+      "github": "https://github.com/your-username/fintrack",
+      "live": "https://example.com",
+      "tech": ["React.js", "TypeScript", "React Query", "Material UI"]
+    }
+  ]
+}

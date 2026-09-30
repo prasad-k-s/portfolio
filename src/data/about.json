@@ -1,0 +1,83 @@
+{
+  "eyebrow": "About me",
+  "heading": "A bit about who I am",
+  "paragraphs": [
+    "I'm a Frontend Engineer with 4+ years of experience building fast, responsive and accessible web applications with React.js, Next.js and TypeScript.",
+    "I've worked on numerous projects across e-commerce, fintech and healthcare, turning complex requirements into clean, intuitive interfaces and writing code that other developers enjoy working with.",
+    "Right now I'm expanding into backend development so I can grow into a well-rounded full-stack engineer."
+  ],
+  "currently": [
+    {
+      "icon": "briefcase",
+      "label": "Working as",
+      "text": "Senior Software Engineer at Opteamix"
+    },
+    {
+      "icon": "rocket",
+      "label": "Exploring",
+      "text": "Backend development to grow into full stack"
+    }
+  ],
+  "stats": [
+    {
+      "value": 4,
+      "suffix": "+",
+      "label": "Years of experience"
+    },
+    {
+      "display": "∞",
+      "label": "Cups of coffee"
+    }
+  ],
+  "servicesHeading": "What I do",
+  "services": [
+    {
+      "icon": "responsive",
+      "title": "Responsive UI",
+      "description": "Pixel-perfect interfaces that look and work great on every screen size."
+    },
+    {
+      "icon": "performance",
+      "title": "Performance",
+      "description": "Fast load times and smooth interactions through smart rendering and optimization."
+    },
+    {
+      "icon": "components",
+      "title": "Reusable Components",
+      "description": "Scalable, well-structured component libraries that keep codebases clean."
+    },
+    {
+      "icon": "api",
+      "title": "API Integration",
+      "description": "Connecting frontends to REST APIs with solid state management and error handling."
+    },
+    {
+      "icon": "testing",
+      "title": "UI Testing",
+      "description": "Reliable interfaces backed by unit, component and end-to-end tests that catch bugs before users do."
+    },
+    {
+      "icon": "security",
+      "title": "Security",
+      "description": "Secure frontends that guard against XSS, handle tokens safely and protect user data."
+    },
+    {
+      "icon": "accessibility",
+      "title": "Accessibility",
+      "description": "Inclusive interfaces with semantic HTML, keyboard support and screen-reader friendly components."
+    }
+  ],
+  "beyondCode": {
+    "heading": "Beyond code",
+    "items": [
+      {
+        "icon": "cooking",
+        "text": "Cooking up new recipes (the tasty kind of debugging)"
+      },
+      {
+        "icon": "book",
+        "text": "Reading books, one chapter at a time"
+      }
+    ]
+  }
+}

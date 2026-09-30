@@ -1,0 +1,31 @@
+{
+  "eyebrow": "Experience",
+  "heading": "Where I've worked",
+  "jobs": [
+    {
+      "company": "Opteamix",
+      "role": "Frontend Engineer",
+      "period": "Sep 2026 – Present",
+      "current": true,
+      "points": [
+        "Building and maintaining responsive, high-performance web interfaces with React, Next.js and TypeScript.",
+        "Collaborating with designers, backend developers and QA to ship features end to end.",
+        "Creating reusable UI components and following best practices for code quality, accessibility and security."
+      ],
+      "tech": ["React.js", "Next.js", "TypeScript", "Tailwind CSS"]
+    },
+    {
+      "company": "QBurst",
+      "role": "Software Engineer – Frontend",
+      "period": "Nov 2022 – Aug 2026",
+      "current": false,
+      "points": [
+        "Delivered frontend features for numerous client projects across e-commerce, fintech and healthcare domains.",
+        "Developed scalable React applications with reusable component libraries and centralized state management.",
+        "Integrated REST APIs and improved page performance through code splitting, lazy loading and memoization.",
+        "Wrote unit and component tests, took part in code reviews and mentored newer team members."
+      ],
+      "tech": ["React.js", "JavaScript", "TypeScript", "Redux", "Material UI", "Jest"]
+    }
+  ]
+}

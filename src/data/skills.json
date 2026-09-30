@@ -1,0 +1,199 @@
+{
+  "eyebrow": "Skills",
+  "heading": "My tech toolbox",
+  "subheading": "The languages, frameworks and tools I use to design, build, test and ship modern web apps.",
+  "categories": [
+    {
+      "title": "Frontend",
+      "icon": "code",
+      "featured": true,
+      "skills": [
+        {
+          "name": "React.js",
+          "icon": "react",
+          "color": "#61DAFB"
+        },
+        {
+          "name": "Next.js",
+          "icon": "nextjs"
+        },
+        {
+          "name": "JavaScript",
+          "icon": "javascript",
+          "color": "#F7DF1E"
+        },
+        {
+          "name": "TypeScript",
+          "icon": "typescript",
+          "color": "#3178C6"
+        },
+        {
+          "name": "HTML5",
+          "icon": "html",
+          "color": "#E34F26"
+        },
+        {
+          "name": "CSS3",
+          "icon": "css",
+          "color": "#1572B6"
+        },
+        {
+          "name": "Redux",
+          "icon": "redux",
+          "color": "#764ABC"
+        },
+        {
+          "name": "React Query",
+          "icon": "reactquery",
+          "color": "#FF4154"
+        }
+      ]
+    },
+    {
+      "title": "Styling & UI",
+      "icon": "palette",
+      "skills": [
+        {
+          "name": "Tailwind CSS",
+          "icon": "tailwind",
+          "color": "#06B6D4"
+        },
+        {
+          "name": "Sass",
+          "icon": "sass",
+          "color": "#CC6699"
+        },
+        {
+          "name": "Material UI",
+          "icon": "mui",
+          "color": "#007FFF"
+        },
+        {
+          "name": "Bootstrap",
+          "icon": "bootstrap",
+          "color": "#7952B3"
+        },
+        {
+          "name": "Styled Components",
+          "icon": "styledcomponents",
+          "color": "#DB7093"
+        },
+        {
+          "name": "Framer Motion",
+          "icon": "framer"
+        }
+      ]
+    },
+    {
+      "title": "Testing",
+      "icon": "flask",
+      "skills": [
+        {
+          "name": "Jest",
+          "icon": "jest",
+          "color": "#C21325"
+        },
+        {
+          "name": "Testing Library",
+          "icon": "testinglibrary",
+          "color": "#E33332"
+        },
+        {
+          "name": "Vitest",
+          "icon": "vitest",
+          "color": "#6E9F18"
+        },
+        {
+          "name": "Cypress",
+          "icon": "cypress"
+        }
+      ]
+    },
+    {
+      "title": "Tools & Workflow",
+      "icon": "tools",
+      "skills": [
+        {
+          "name": "Git",
+          "icon": "git",
+          "color": "#F05032"
+        },
+        {
+          "name": "GitHub",
+          "icon": "github"
+        },
+        {
+          "name": "VS Code",
+          "icon": "vscode",
+          "color": "#007ACC"
+        },
+        {
+          "name": "Figma",
+          "icon": "figma",
+          "color": "#F24E1E"
+        },
+        {
+          "name": "Postman",
+          "icon": "postman",
+          "color": "#FF6C37"
+        },
+        {
+          "name": "npm",
+          "icon": "npm",
+          "color": "#CB3837"
+        },
+        {
+          "name": "Vite",
+          "icon": "vite",
+          "color": "#646CFF"
+        },
+        {
+          "name": "Webpack",
+          "icon": "webpack",
+          "color": "#8DD6F9"
+        },
+        {
+          "name": "Jira",
+          "icon": "jira",
+          "color": "#0052CC"
+        },
+        {
+          "name": "ESLint",
+          "icon": "eslint",
+          "color": "#4B32C3"
+        },
+        {
+          "name": "Prettier",
+          "icon": "prettier",
+          "color": "#F7B93E"
+        }
+      ]
+    },
+    {
+      "title": "Backend",
+      "icon": "server",
+      "badge": "Currently learning",
+      "skills": [
+        {
+          "name": "Node.js",
+          "icon": "nodejs",
+          "color": "#5FA04E"
+        },
+        {
+          "name": "Express",
+          "icon": "express"
+        },
+        {
+          "name": "MongoDB",
+          "icon": "mongodb",
+          "color": "#47A248"
+        },
+        {
+          "name": "PostgreSQL",
+          "icon": "postgresql",
+          "color": "#4169E1"
+        }
+      ]
+    }
+  ]
+}

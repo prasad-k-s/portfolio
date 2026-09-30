@@ -1,0 +1,12 @@
+{
+  "name": "Prasad Sankar",
+  "role": "Frontend Engineer",
+  "siteTitle": "Prasad Sankar | Frontend Engineer",
+  "siteDescription": "Portfolio of Prasad Sankar, a Frontend Engineer who builds fast, accessible and pixel-perfect web apps with React, Next.js and TypeScript.",
+  "resumeUrl": "/resume.pdf",
+  "socials": [
+    { "name": "GitHub", "icon": "github", "url": "https://github.com/your-username" },
+    { "name": "LinkedIn", "icon": "linkedin", "url": "https://www.linkedin.com/in/your-profile" },
+    { "name": "Email", "icon": "email", "url": "mailto:your.email@example.com" }
+  ]
+}
