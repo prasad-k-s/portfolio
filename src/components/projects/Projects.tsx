@@ -14,7 +14,11 @@ export default function Projects() {
         <SectionHeading eyebrow={projects.eyebrow} heading={projects.heading} />
         <p className="-mt-8 mb-12 max-w-2xl text-base text-muted sm:text-lg">{projects.subheading}</p>
 
-        <div className="grid gap-8 md:grid-cols-2">
+        <div
+          className={`grid gap-8 ${
+            projects.projects.length === 1 ? "mx-auto max-w-2xl" : "md:grid-cols-2"
+          }`}
+        >
           {projects.projects.map((project, i) => (
             <motion.article
               key={project.name}
