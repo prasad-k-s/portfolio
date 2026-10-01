@@ -4,6 +4,24 @@
   "subheading": "A few projects I've worked on. Click through to see the code or try them live.",
   "projects": [
     {
+      "name": "CoinPulse",
+      "description": "A crypto portfolio tracker with live prices for 2,000+ coins in a virtualized, infinitely scrolling table, price charts, a watchlist, and buy/sell tracking with profit and loss in USD or INR. Includes Firebase login with protected routes, React Hook Form + Zod validation, a responsive dark/light UI, and unit and component tests with CI.",
+      "image": "/images/projects/coinpulse.jpg",
+      "github": "https://github.com/prasad-k-s/coinpulse",
+      "live": "https://prasad-coinpulse.netlify.app/",
+      "tech": [
+        "React.js",
+        "TypeScript",
+        "Redux",
+        "React Query",
+        "Material UI",
+        "Firebase",
+        "Vite",
+        "Vitest",
+        "Testing Library"
+      ]
+    },
+    {
       "name": "Learning Projects Hub",
       "description": "A showcase of projects I built while learning.",
       "image": "/images/projects/learning-projects.jpg",
