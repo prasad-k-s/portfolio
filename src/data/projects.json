@@ -7,7 +7,7 @@
       "name": "Learning Projects Hub",
       "description": "A showcase of projects I built while learning.",
       "image": "/images/projects/learning-projects.jpg",
-      "github": "https://github.com/prasad-k-s",
+      "github": "https://github.com/prasad-k-s/learning-projects",
       "live": "https://prasad-projects.netlify.app/",
       "tech": [
         "HTML5",
