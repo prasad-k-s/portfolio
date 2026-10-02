@@ -22,6 +22,21 @@
       ]
     },
     {
+      "name": "Ask Stream",
+      "description": "A ChatGPT-style Q&A app that streams Gemini answers token by token, with the streaming built by hand (no AI SDK): a Next.js route handler parses Server-Sent Events and the browser reads them with ReadableStream. Includes a Stop button with AbortController, automatic retry and backup models when the AI is busy, a live chunk timeline with time to first token, streaming-safe Markdown with code highlighting, rate limiting, and a dark/light UI.",
+      "image": "/images/projects/ask-stream.jpg",
+      "github": "https://github.com/prasad-k-s/ask-stream",
+      "live": "https://prasad-ask-stream.vercel.app/",
+      "tech": [
+        "Next.js",
+        "React.js",
+        "TypeScript",
+        "Gemini API",
+        "Server-Sent Events",
+        "Vercel"
+      ]
+    },
+    {
       "name": "Learning Projects Hub",
       "description": "A showcase of projects I built while learning.",
       "image": "/images/projects/learning-projects.jpg",
