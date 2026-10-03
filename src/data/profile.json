@@ -1,8 +1,8 @@
 {
   "name": "Prasad Sankar",
-  "role": "Frontend Engineer",
-  "siteTitle": "Prasad Sankar | Frontend Engineer",
-  "siteDescription": "Portfolio of Prasad Sankar, a Frontend Engineer who builds fast, accessible and pixel-perfect web apps with React, Next.js and TypeScript.",
+  "role": "Full Stack Developer",
+  "siteTitle": "Prasad Sankar | Full Stack Developer",
+  "siteDescription": "Portfolio of Prasad Sankar, a Full Stack Developer who builds fast, accessible web apps and the APIs behind them with React, Next.js, TypeScript, Node.js, Express, MongoDB and PostgreSQL.",
   "resumeUrl": "/resume.pdf",
   "socials": [
     {

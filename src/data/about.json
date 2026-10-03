@@ -2,9 +2,9 @@
   "eyebrow": "About me",
   "heading": "A bit about who I am",
   "paragraphs": [
-    "I'm a Frontend Engineer with 4+ years of experience building fast, responsive and accessible web applications with React.js, Next.js and TypeScript.",
-    "I've worked on numerous projects across e-commerce, fintech and healthcare, turning complex requirements into clean, intuitive interfaces and writing code that other developers enjoy working with.",
-    "Right now I'm expanding into backend development so I can grow into a well-rounded full-stack engineer."
+    "I'm a Full Stack Developer with 4+ years of experience building fast, responsive and secure web applications with React.js, Next.js, TypeScript, Node.js and Express.",
+    "I've worked on numerous projects across e-commerce, fintech and healthcare, from clean, intuitive interfaces to the REST and GraphQL APIs and MongoDB/PostgreSQL databases behind them, writing code that other developers enjoy working with.",
+    "I enjoy owning features end to end: designing the data model, building the API and shipping the UI that brings it all together."
   ],
   "currently": [
     {
@@ -14,8 +14,8 @@
     },
     {
       "icon": "rocket",
-      "label": "Exploring",
-      "text": "Backend development to grow into full stack"
+      "label": "Focused on",
+      "text": "Building scalable full-stack apps with Next.js and Node.js"
     }
   ],
   "stats": [
@@ -48,18 +48,23 @@
     },
     {
       "icon": "api",
-      "title": "API Integration",
-      "description": "Connecting frontends to REST APIs with solid state management and error handling."
+      "title": "Backend & APIs",
+      "description": "Secure REST and GraphQL APIs with Node.js and Express, with authentication, validation and solid error handling."
+    },
+    {
+      "icon": "database",
+      "title": "Databases",
+      "description": "Well-designed data models and efficient queries with MongoDB and PostgreSQL."
     },
     {
       "icon": "testing",
-      "title": "UI Testing",
-      "description": "Reliable interfaces backed by unit, component and end-to-end tests that catch bugs before users do."
+      "title": "Testing",
+      "description": "Reliable code backed by unit, component, API and end-to-end tests that catch bugs before users do."
     },
     {
       "icon": "security",
       "title": "Security",
-      "description": "Secure frontends that guard against XSS, handle tokens safely and protect user data."
+      "description": "Secure apps on both sides: JWT auth, role-based access, input validation and protection against XSS and injection."
     },
     {
       "icon": "accessibility",

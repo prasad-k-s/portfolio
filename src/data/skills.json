@@ -1,7 +1,7 @@
 {
   "eyebrow": "Skills",
   "heading": "My tech toolbox",
-  "subheading": "The languages, frameworks and tools I use to design, build, test and ship modern web apps.",
+  "subheading": "The languages, frameworks and tools I use to design, build, test and ship modern full-stack web apps.",
   "categories": [
     {
       "title": "Frontend",
@@ -46,6 +46,51 @@
           "name": "React Query",
           "icon": "reactquery",
           "color": "#FF4154"
+        }
+      ]
+    },
+    {
+      "title": "Backend & APIs",
+      "icon": "server",
+      "featured": true,
+      "skills": [
+        {
+          "name": "Node.js",
+          "icon": "nodejs",
+          "color": "#5FA04E"
+        },
+        {
+          "name": "Express",
+          "icon": "express"
+        },
+        {
+          "name": "REST APIs",
+          "icon": "restapi",
+          "color": "#22C55E"
+        },
+        {
+          "name": "GraphQL",
+          "icon": "graphql",
+          "color": "#E10098"
+        },
+        {
+          "name": "Apollo",
+          "icon": "apollo"
+        },
+        {
+          "name": "JWT Auth",
+          "icon": "jwt",
+          "color": "#D63AFF"
+        },
+        {
+          "name": "Zod",
+          "icon": "zod",
+          "color": "#3E67B1"
+        },
+        {
+          "name": "Swagger",
+          "icon": "swagger",
+          "color": "#85EA2D"
         }
       ]
     },
@@ -170,19 +215,9 @@
       ]
     },
     {
-      "title": "Backend",
-      "icon": "server",
-      "badge": "Currently learning",
+      "title": "Databases",
+      "icon": "database",
       "skills": [
-        {
-          "name": "Node.js",
-          "icon": "nodejs",
-          "color": "#5FA04E"
-        },
-        {
-          "name": "Express",
-          "icon": "express"
-        },
         {
           "name": "MongoDB",
           "icon": "mongodb",
@@ -192,6 +227,15 @@
           "name": "PostgreSQL",
           "icon": "postgresql",
           "color": "#4169E1"
+        },
+        {
+          "name": "Mongoose",
+          "icon": "mongoose",
+          "color": "#880000"
+        },
+        {
+          "name": "Prisma",
+          "icon": "prisma"
         }
       ]
     }

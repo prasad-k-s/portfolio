@@ -1,5 +1,6 @@
 import type { IconType } from "react-icons";
 import {
+  SiApollographql,
   SiBootstrap,
   SiCss,
   SiCypress,
@@ -9,11 +10,14 @@ import {
   SiFramer,
   SiGit,
   SiGithub,
+  SiGraphql,
   SiHtml5,
   SiJavascript,
   SiJest,
   SiJira,
+  SiJsonwebtokens,
   SiMongodb,
+  SiMongoose,
   SiMui,
   SiNextdotjs,
   SiNodedotjs,
@@ -21,20 +25,23 @@ import {
   SiPostgresql,
   SiPostman,
   SiPrettier,
+  SiPrisma,
   SiReact,
   SiReactquery,
   SiRedux,
   SiSass,
   SiStyledcomponents,
+  SiSwagger,
   SiTailwindcss,
   SiTestinglibrary,
   SiTypescript,
   SiVite,
   SiVitest,
   SiWebpack,
+  SiZod,
 } from "react-icons/si";
 import { VscVscode } from "react-icons/vsc";
-import { FaCode, FaFlaskVial, FaPalette, FaScrewdriverWrench, FaServer } from "react-icons/fa6";
+import { FaArrowRightArrowLeft, FaCode, FaDatabase, FaFlaskVial, FaPalette, FaScrewdriverWrench, FaServer } from "react-icons/fa6";
 
 // Brand logos for skills (Simple Icons). To add a new skill icon:
 // 1. find it at https://react-icons.github.io/react-icons/icons/si
@@ -75,6 +82,14 @@ const techIcons: Record<string, IconType> = {
   express: SiExpress,
   mongodb: SiMongodb,
   postgresql: SiPostgresql,
+  restapi: FaArrowRightArrowLeft,
+  graphql: SiGraphql,
+  apollo: SiApollographql,
+  jwt: SiJsonwebtokens,
+  zod: SiZod,
+  swagger: SiSwagger,
+  mongoose: SiMongoose,
+  prisma: SiPrisma,
 };
 
 // Icons for the category cards
@@ -84,6 +99,7 @@ const categoryIcons: Record<string, IconType> = {
   flask: FaFlaskVial,
   tools: FaScrewdriverWrench,
   server: FaServer,
+  database: FaDatabase,
 };
 
 export function getTechIcon(name?: string): IconType | null {

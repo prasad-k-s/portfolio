@@ -4,28 +4,52 @@
   "jobs": [
     {
       "company": "Opteamix",
-      "role": "Frontend Engineer",
+      "role": "Senior Software Engineer",
       "period": "Sep 2026 – Present",
       "current": true,
       "points": [
-        "Building and maintaining responsive, high-performance web interfaces with React, Next.js and TypeScript.",
-        "Collaborating with designers, backend developers and QA to ship features end to end.",
-        "Creating reusable UI components and following best practices for code quality, accessibility and security."
+        "Building full-stack features end to end with React, Next.js, TypeScript, Node.js and Express.",
+        "Designing and developing REST and GraphQL APIs, with JWT-based authentication, role-based access and request validation.",
+        "Modeling data and writing efficient queries in MongoDB and PostgreSQL to keep pages and APIs fast.",
+        "Creating reusable UI components and working closely with designers and QA, following best practices for code quality, accessibility and security."
       ],
-      "tech": ["React.js", "Next.js", "TypeScript", "Tailwind CSS"]
+      "tech": [
+        "React.js",
+        "Next.js",
+        "TypeScript",
+        "Node.js",
+        "Express",
+        "GraphQL",
+        "MongoDB",
+        "PostgreSQL",
+        "Tailwind CSS"
+      ]
     },
     {
       "company": "QBurst",
-      "role": "Software Engineer – Frontend",
+      "role": "Senior Engineer",
       "period": "Nov 2022 – Aug 2026",
       "current": false,
       "points": [
-        "Delivered frontend features for numerous client projects across e-commerce, fintech and healthcare domains.",
-        "Developed scalable React applications with reusable component libraries and centralized state management.",
-        "Integrated REST APIs and improved page performance through code splitting, lazy loading and memoization.",
-        "Wrote unit and component tests, took part in code reviews and mentored newer team members."
+        "Delivered full-stack features for numerous client projects across e-commerce, fintech and healthcare domains, including a HIPAA-compliant healthcare app.",
+        "Built a role-based employee rewards portal where employees up to VPs earn points for their work and redeem them for goodies, spanning React UI, Node.js/Express APIs and the database.",
+        "Developed RESTful APIs with Node.js and Express backed by MongoDB and PostgreSQL, with authentication, authorization and error handling.",
+        "Developed scalable React applications with reusable component libraries and centralized state management, improving performance through code splitting, lazy loading and memoization.",
+        "Wrote unit, component and API tests, took part in code reviews and mentored newer team members."
       ],
-      "tech": ["React.js", "JavaScript", "TypeScript", "Redux", "Material UI", "Jest"]
+      "tech": [
+        "React.js",
+        "JavaScript",
+        "TypeScript",
+        "Node.js",
+        "Express",
+        "REST APIs",
+        "MongoDB",
+        "PostgreSQL",
+        "Redux",
+        "Material UI",
+        "Jest"
+      ]
     }
   ]
 }
