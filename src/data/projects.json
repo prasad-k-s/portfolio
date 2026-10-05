@@ -4,6 +4,24 @@
   "subheading": "A few projects I've worked on. Click through to see the code or try them live.",
   "projects": [
     {
+      "name": "AniVerse",
+      "description": "An anime discovery and community app: trending and seasonal lists rendered with ISR, search with filters and infinite scroll, anime pages with SEO metadata, a personal watchlist with optimistic updates, reviews saved with Server Actions, and a live discussion powered by Supabase Realtime. Built on Supabase Auth, Postgres with Row Level Security and Storage, with Jest and Playwright tests.",
+      "image": "/images/projects/aniverse.jpg",
+      "github": "https://github.com/prasad-k-s/aniverse",
+      "live": "https://prasad-aniverse.vercel.app/",
+      "tech": [
+        "Next.js",
+        "TypeScript",
+        "React Query",
+        "Tailwind CSS",
+        "Supabase",
+        "GraphQL",
+        "PostgreSQL",
+        "Jest",
+        "Testing Library"
+      ]
+    },
+    {
       "name": "CoinPulse",
       "description": "A crypto portfolio tracker with live prices for 2,000+ coins in a virtualized, infinitely scrolling table, price charts, a watchlist, and buy/sell tracking with profit and loss in USD or INR. Includes Firebase login with protected routes, React Hook Form + Zod validation, a responsive dark/light UI, and unit and component tests with CI.",
       "image": "/images/projects/coinpulse.jpg",
