@@ -55,6 +55,21 @@
       ]
     },
     {
+      "name": "Penpot Bridge (POC)",
+      "description": "A proof-of-concept design-to-code CLI built at Opteamix that connects Penpot, the open-source design tool, to the codebase so designs can be turned into React components. I migrated the CLI from JavaScript to TypeScript, tested and improved its Penpot MCP setup so AI coding assistants can read design files directly, and worked on packaging it as a typed npm package for a private company registry.",
+      "image": "/images/projects/penpot-bridge.svg",
+      "live": "https://design.penpot.app/",
+      "liveLabel": "Visit Penpot",
+      "tech": [
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "npm",
+        "MCP",
+        "CLI"
+      ]
+    },
+    {
       "name": "Learning Projects Hub",
       "description": "A showcase of projects I built while learning.",
       "image": "/images/projects/learning-projects.jpg",

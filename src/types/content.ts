@@ -103,6 +103,8 @@ export interface Project {
   image: string;
   github?: string;
   live?: string;
+  /** Text for the live link button. Defaults to "Live Demo". */
+  liveLabel?: string;
   /** Skill names; matching names from skills.json show their logos */
   tech: string[];
 }

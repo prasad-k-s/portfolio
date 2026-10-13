@@ -68,7 +68,7 @@ export default function Projects() {
                       rel="noopener noreferrer"
                       className="inline-flex items-center gap-2 rounded-full bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-md shadow-accent/30 transition-all hover:-translate-y-0.5 hover:shadow-accent/50"
                     >
-                      Live Demo <FaArrowUpRightFromSquare size={12} />
+                      {project.liveLabel ?? "Live Demo"} <FaArrowUpRightFromSquare size={12} />
                     </a>
                   )}
                 </div>
